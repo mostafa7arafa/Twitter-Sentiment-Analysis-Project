@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project explores **sentiment analysis** 🧠💬 using the **Sentiment140 dataset** from Kaggle. The goal is to classify tweets as **positive 😊** or **negative 😡** using **Deep Learning models**.
+This project explores **sentiment analysis**  using the **Sentiment140 dataset** from Kaggle. The goal is to classify tweets as **positive ** or **negative ** using **Deep Learning models**.
 
 We experimented with two architectures:
 
@@ -94,9 +94,9 @@ model.compile(loss='binary_crossentropy',
 
 | Model     | Loss   | Accuracy | Observation                             |
 | --------- | ------ | -------- | --------------------------------------- |
-| 🌀 BiLSTM | \~0.44 | \~83%    | Captures context, better generalization |
+| 🌀 BiLSTM | \~0.41 | \~82%    | Captures context, better generalization |
 | 🔲 CNN    | \~0.48 | \~81%    | Faster, simpler, but less context-aware |
-| 📊 VADER  | -      | \~70%    | Good baseline, but weaker than DL       |
+| 📊 VADER  | -      | \~65%    | Good baseline, but weaker than DL       |
 
 ---
 
