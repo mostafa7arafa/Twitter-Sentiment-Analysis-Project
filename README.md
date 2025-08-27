@@ -1,5 +1,3 @@
----
-
 # 📝 Sentiment140 Twitter Sentiment Analysis
 
 ## 📌 Project Overview
