@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project explores **sentiment analysis**  using the **Sentiment140 dataset** from Kaggle. The goal is to classify tweets as **positive ** or **negative ** using **Deep Learning models**.
+This project explores **sentiment analysis**  using the **Sentiment140 dataset** from Kaggle. The goal is to classify tweets as **positive** or **negative** using **Deep Learning models**.
 
 We experimented with two architectures:
 
